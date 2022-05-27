@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\BM KSÜ\Yazılım Geliştirici Kamp C# Engin Demirog\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BM KSÜ\Yazılım Geliştirici Kamp C# Engin Demirog\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BM KSÜ\Yazılım Geliştirici Kamp C# Engin Demirog\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BM KSÜ\Yazılım Geliştirici Kamp C# Engin Demirog\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).AssemblyInfo.cs
+C:\Users\User\Desktop\BM KSÜ\Yazılım Geliştirici Kamp C# Engin Demirog\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BM KSÜ\Engin Demirog\Yazılım Geliştirici Kampı C#\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BM KSÜ\Engin Demirog\Yazılım Geliştirici Kampı C#\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BM KSÜ\Engin Demirog\Yazılım Geliştirici Kampı C#\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BM KSÜ\Engin Demirog\Yazılım Geliştirici Kampı C#\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).AssemblyInfo.cs
+C:\Users\User\Desktop\BM KSÜ\Engin Demirog\Yazılım Geliştirici Kampı C#\Homework5(Game)\Homework5(Game)\obj\Debug\netcoreapp3.1\Homework5(Game).csproj.CoreCompileInputs.cache
